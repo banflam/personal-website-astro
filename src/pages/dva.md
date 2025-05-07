@@ -10,9 +10,13 @@ _How I achieved the AWS Certified Developer Associate certification -- and the l
 
 ## Why this article
 
-It's been a long and arduous road towards that lead to last weekend, when I finally went down to the Pearson testing center and took the [AWS DVA-C02 Certified Developer Associate](https://www.credly.com/badges/a5534cca-8dc8-47d8-b7c9-0359077ba0b5/public_url) exam...and passed! Finally, it was done! I considered the time it took, the struggle, the self-doubt and the eventual triumph and realized that it might be helpful if other people might be able to learn from my experience. That's why I decided to write this article sharing my journey and the lessons I learned along the way.
+Man.
 
-And also, being blessed to be in the tech field, I have gained from the generosity of all those who have gone before me and shared what they have learned, making the path ahead just that much clearer. It might just be that I have a ["duty to document"](https://nicolasbouliane.com/blog/duty-to-document) like those who went before me, so here it goes.
+It was an arduous arduous road to last weekend. I summoned all my courage, went down to the Pearson testing center, took the [AWS DVA-C02 Certified Developer Associate](https://www.credly.com/badges/a5534cca-8dc8-47d8-b7c9-0359077ba0b5/public_url) exam...and passed! Finally, it was done!
+
+Considering the time it took, the struggle, and the self-doubt I realized it might be helpful if others might be able to learn from my experience. So here I will share my journey and the lessons I learned along the way.
+
+And of course -- being blessed to be in tech, I have gained from the generosity of those who have gone before and shared what they have learned. It might be that I have a ["duty to document"](https://nicolasbouliane.com/blog/duty-to-document), so here it goes.
 
 ## Why AWS?
 
@@ -36,7 +40,7 @@ In so far as there was a decision process, I just found the material that the ce
 
 And with a certain amount of ambition, I felt that I could power through the learning curve and go directly from zero to "someone who knows AWS" by skipping the introductory "AWS Cloud Practitioner" stage and certification.
 
-Of course, I was also just browing the excellent and useful r/AWS subreddit where the Certified Developer Associate certification came up often as the top choice as a first certificate.
+Of course, I was also just browsing the excellent and useful r/AWS subreddit where the Certified Developer Associate certification came up often as the top choice as a first certificate.
 
 ## Resources I used
 
