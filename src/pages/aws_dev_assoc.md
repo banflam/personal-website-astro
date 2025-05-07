@@ -113,4 +113,4 @@ It's great to learn formally but it's time to build. I'm going to go and build s
 
 If you have any questions, please contact me and best of luck.
 
-![AWS certificate DVA-C02](/images/cert_pic.png)
+![AWS certificate DVA-C02](/images/AWS_DVA-C02_RISHI.png)
