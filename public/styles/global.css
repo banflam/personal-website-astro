@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Minion Pro';
+  src: url('/fonts/MinionPro-Regular.otf') format('opentype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Minion Pro';
+  src: url('/fonts/MinionPro-Semibold.otf') format('opentype');
+  font-weight: 600;
+}
+
+body {
+  font-family: 'Minion Pro', serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #fff;
+}
+
+.wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Minion Pro', serif;
+  font-weight: 600;
+  margin-top: 2rem;
+}
