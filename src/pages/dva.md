@@ -104,7 +104,11 @@ Going for the Developer Associate certification first would have also given me a
 
 The second thing I would have done (and this is crucial) is set a date for the exam! I believe that this is the single greatest mistake and the one that cost me the most. Every time something else came up, I would throw DVA-C02 onto the back burner and forget about it. Without a fixed exam date, I was just able to procrastinate on actually taking the exam forever!
 
-Guess what? Even when I finally bit the bullet and went down to the testing center, I didn't feel prepared. That just life! Worst case I would not have passed the exam and been dejected, but it would have been motivation to come back harder and stronger than ever.
+Guess what? Even when I finally bit the bullet and went down to the testing center, I didn't feel prepared. 
+
+That's just life! 
+
+Worst case I would not have passed the exam and been dejected, but it would have been motivation to come back harder and stronger than ever.
 
 The third thing I wish I had done differently is thoroughly spent gone through the entire Stephane Maarek course and taken my time with it before moving on to practice exams. What you need to understand about the AWS Associate-level certs is that they are genuinely difficult. There are no straightforward answers to be found anywhere. Each question combines several disparate topics together. This is by no means one of those exams where you can get by by just memorizing a bunch of facts -- although you need to know your stuff as well.
 
