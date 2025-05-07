@@ -5,7 +5,8 @@ layout: ../layouts/BlogPostLayout.astro
 ---
 
 # My quest for AWS
-*How I achieved the AWS Certified Developer Associate certification -- and the lessons I learned along the way*
+
+_How I achieved the AWS Certified Developer Associate certification -- and the lessons I learned along the way_
 
 ## Why this article
 
@@ -21,7 +22,7 @@ Well, I did a bit of digging around online and found out that pretty much the on
 
 Coming across AWS... I was certain that I had seen AWS before somewhere. But where? Then I remembered -- a lot of Y Combinator startups wanted people who knew AWS! Knowing that it was a skill that was in-demand was just another reason to start my own AWS journey.
 
-Apart from hearing so much about AWS and getting AWS thrown around everywhere, I realized that above all I was genuinely interested in learning about it. Sure, AWS is a highly useful and employable skill. But it really would only help if I was genuinely interested in it, which I was. 
+Apart from hearing so much about AWS and getting AWS thrown around everywhere, I realized that above all I was genuinely interested in learning about it. Sure, AWS is a highly useful and employable skill. But it really would only help if I was genuinely interested in it, which I was.
 
 AWS also seemed to be somewhat of a "meta skill" that I could acquire, something that would accelerate progress in other areas as well. Fundamentally AWS is a cloud provider and provides cloud infrastructure. It would be a fun way to build some personal projects for "fun and profit" along the way as well. Knowledge that could not go to waste etc.
 
@@ -31,7 +32,7 @@ And I figured that if I were to spend the effort learning it, I might as well le
 
 I wish I could provide some in-depth analysis out here, but I don't have any. There wasn't really any grand thought process behind me choosing the DVA-C02 certification over the others.
 
-In so far as there was a decision process, I just found the material that the certification would cover to be the most interesting and hopefully the most useful. I liked the idea of being a "certified AWS developer". 
+In so far as there was a decision process, I just found the material that the certification would cover to be the most interesting and hopefully the most useful. I liked the idea of being a "certified AWS developer".
 
 And with a certain amount of ambition, I felt that I could power through the learning curve and go directly from zero to "someone who knows AWS" by skipping the introductory "AWS Cloud Practitioner" stage and certification.
 
@@ -39,16 +40,15 @@ Of course, I was also just browing the excellent and useful r/AWS subreddit wher
 
 ## Resources I used
 
-| Resource      | Description |
-| ----------- | ----------- |
-| [Stephane Maarek's Udemy course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)      | I used this to learn the actual material, skipping over the hands-on activities. While "learning by doing" is great, I don't know whether they would have been actually useful      |
-| [AWS documentation](https://docs.aws.amazon.com/)   | to fill in gaps in my understanding        | 
-|[Anki](https://apps.ankiweb.net/) | made my own deck with everything I learned |
-|[Tutorials Dojo practice exams](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)| these were good but I ran out of exams way too easily by starting practice exams too early. I might be the only person who has had this problem, though |
-|[SkillCertPro practice exams](https://skillcertpro.com/product/aws-certified-developer-associate-practice-exam-questions/) |  I personally loved these because you get a massive load of practice tests.|
-|[r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/) | Classic. Extremely helpful and insightful subreddit. Most of my research and attack plan was created by reading posts from here. It's how I found many of the materials I would use, actually |
-| [AWS Discord](https://discord.com/servers/amazon-web-services-aws-cloud-423842546947457024) | I didn't use this too much but it's nice to have a community available (in the exams-prep channel) |
-
+| Resource                                                                                                                    | Description                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Stephane Maarek's Udemy course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)                   | I used this to learn the actual material, skipping over the hands-on activities. While "learning by doing" is great, I don't know whether they would have been actually useful                |
+| [AWS documentation](https://docs.aws.amazon.com/)                                                                           | to fill in gaps in my understanding                                                                                                                                                           |
+| [Anki](https://apps.ankiweb.net/)                                                                                           | made my own deck with everything I learned                                                                                                                                                    |
+| [Tutorials Dojo practice exams](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/) | these were good but I ran out of exams way too easily by starting practice exams too early. I might be the only person who has had this problem, though                                       |
+| [SkillCertPro practice exams](https://skillcertpro.com/product/aws-certified-developer-associate-practice-exam-questions/)  | I personally loved these because you get a massive load of practice tests.                                                                                                                    |
+| [r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/)                                                          | Classic. Extremely helpful and insightful subreddit. Most of my research and attack plan was created by reading posts from here. It's how I found many of the materials I would use, actually |
+| [AWS Discord](https://discord.com/servers/amazon-web-services-aws-cloud-423842546947457024)                                 | I didn't use this too much but it's nice to have a community available (in the exams-prep channel)                                                                                            |
 
 ## Timeline for context
 
@@ -63,8 +63,6 @@ Jan 2025: intense studying for AWS; had this crazy idea that I could finish it i
 Feb 2025 - Apr 2025: moderately intense yet often off-and-on preparation. As the prep drags on for what seems like forever I enter a certain fugue state where I'm still working on it but it just gets more and more painful.
 
 May 2025: After a breakthrough on Skillcertpro practice exam scores (I had run out of TutorialsDojo exams long ago), which itself followed a marathon week in which I reviewed difficult topics, I scheduled the exam for the next day, walked in, and passed!
-
-
 
 ## My journey to exam day
 
@@ -94,13 +92,13 @@ Afterwards I did what should be standard procedure: I added the certificate to m
 
 Hindsight being 20/20, looking back it's very clear to me that I made a few mistakes and took a few wrong turns along the way.
 
-The very first thing I would have done differently is actually taken the [Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) certificate first. The reason for this is two-fold. 
+The very first thing I would have done differently is actually taken the [Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) certificate first. The reason for this is two-fold.
 
 Firstly, it would have broken up the stretch of time for which I chipped away at the material into a smaller initial first section and given me something to show for my efforts. Starting off at the Developer Associate certification (which is more of an intermediate certification and not a beginner certification) meant that I had a lot more to learn in order to get any visible sign of progress.
 
 Going for the Developer Associate certification first would have also given me a taste of all of the different paths available within AWS. While this is somewhat of a weaker point seeing that (of course) there is a lot of overlap between all of the Associate-level certificates as well, understand is that the Cloud Practitioner certificate is specifically designed to be an introduction to AWS as a whole instead of diving into the deep end like how I did with the Developer Associate certificate. Of course, now that I have the Developer Associate it would be useless to go back and get the intro-level cert, but ideally I would have segmented my AWS journey using the Cloud Practitioner as well.
 
-The second thing I would have done (and this is crucial) is set a date for the exam! I believe that this is the single greatest mistake and the one that cost me the most. Every time something else came up, I would throw DVA-C02 onto the back burner and forget about it. Without a fixed exam date, I was just able to procrastinate on actually taking the exam forever! 
+The second thing I would have done (and this is crucial) is set a date for the exam! I believe that this is the single greatest mistake and the one that cost me the most. Every time something else came up, I would throw DVA-C02 onto the back burner and forget about it. Without a fixed exam date, I was just able to procrastinate on actually taking the exam forever!
 
 Guess what? Even when I finally bit the bullet and went down to the testing center, I didn't feel prepared. That just life! Worst case I would not have passed the exam and been dejected, but it would have been motivation to come back harder and stronger than ever.
 
@@ -110,8 +108,6 @@ Optimistic fellow that I am, I kept trying to jump the gun and rush into the pra
 
 # Conclusion
 
-It's great to learn formally but it's time to build. I'm going to go and build something with my new-found AWS knowledge! 
+It's great to learn formally but it's time to build. I'm going to go and build something with my new-found AWS knowledge!
 
 If you have any questions, please contact me and best of luck.
-
-![AWS certificate DVA-C02](/images/AWS_DVA-C02_RISHI.png)
