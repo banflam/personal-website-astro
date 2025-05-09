@@ -12,7 +12,7 @@ I'm currently based in NYC, looking for work.
 
 # Do you write?
 
-[Check out my first article!](https://rishi.ag/dva/)
+[Check out my first article!](/dva/)
 
 # How to contact you?
 
@@ -20,4 +20,4 @@ I'm currently based in NYC, looking for work.
 
 # Give me anonymous feedback?
 
-[I welcome any and all feedback!](https://rishi.ag/fb/)
+[I welcome any and all feedback!](/fb/)
