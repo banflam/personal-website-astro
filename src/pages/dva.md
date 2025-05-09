@@ -1,7 +1,7 @@
 ---
 title: "My Quest for AWS"
 slug: "dva"
-layout: ../layouts/BlogPostLayout.astro
+layout: ../layouts/BasicLayout.astro
 ---
 
 # My quest for AWS
@@ -104,9 +104,9 @@ Going for the Developer Associate certification first would have also given me a
 
 The second thing I would have done (and this is crucial) is set a date for the exam! I believe that this is the single greatest mistake and the one that cost me the most. Every time something else came up, I would throw DVA-C02 onto the back burner and forget about it. Without a fixed exam date, I was just able to procrastinate on actually taking the exam forever!
 
-Guess what? Even when I finally bit the bullet and went down to the testing center, I didn't feel prepared. 
+Guess what? Even when I finally bit the bullet and went down to the testing center, I didn't feel prepared.
 
-That's just life! 
+That's just life!
 
 Worst case I would not have passed the exam and been dejected, but it would have been motivation to come back harder and stronger than ever.
 

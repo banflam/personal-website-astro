@@ -1,7 +1,7 @@
 ---
 title: "My Quest for AWS"
 slug: "dva"
-layout: ../layouts/BlogPostLayout.astro
+layout: ../layouts/BasicLayout.astro
 ---
 
 # Who am I?
