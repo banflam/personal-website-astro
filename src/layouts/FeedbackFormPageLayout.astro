@@ -16,6 +16,7 @@ const { title } = Astro.props;
         <input type="text" name="message" placeholder="message" required />
         <button type="submit">Submit</button>
       </form>
+      <p id="confirmation message"></p>
 
       <article>
         <h1><a href="/" title="Rishi Nitin Agrawal">Rishi Agrawal</a></h1>
@@ -29,6 +30,13 @@ const { title } = Astro.props;
         if (form) {
           form.addEventListener("submit", function (event) {
             event.preventDefault();
+
+            const confirmation_place = document.getElementById(
+              "confirmation message",
+            );
+            if (confirmation_place) {
+              confirmation_place.innerText = "Submitted, thanks!";
+            }
 
             const formData = new FormData(form);
             const jsonData: { [key: string]: any } = {};
