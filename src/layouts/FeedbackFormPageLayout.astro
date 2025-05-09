@@ -1,0 +1,58 @@
+---
+const { title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Rishi Nitin Agrawal's website" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <main class="wrapper">
+      <form id="myForm">
+        <input type="text" name="message" placeholder="message" required />
+        <button type="submit">Submit</button>
+      </form>
+
+      <article>
+        <h1><a href="/" title="Rishi Nitin Agrawal">Rishi Agrawal</a></h1>
+        <slot />
+      </article>
+    </main>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const form = document.getElementById("myForm") as HTMLFormElement;
+        if (form) {
+          form.addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const formData = new FormData(form);
+            const jsonData: { [key: string]: any } = {};
+
+            formData.forEach((value, key) => {
+              jsonData[key] = value;
+            });
+
+            fetch(
+              "https://gcera9txsa.execute-api.us-east-2.amazonaws.com/prod/sendFeedback",
+              {
+                method: "POST",
+                mode: "no-cors",
+                headers: {
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify(jsonData),
+              },
+            );
+          });
+        } else {
+          console.error("Form not found");
+        }
+      });
+    </script>
+  </body>
+</html>
