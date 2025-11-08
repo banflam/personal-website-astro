@@ -10,6 +10,10 @@ I graduated last December from from the University of Maryland, College Park whe
 
 I'm currently based in NYC, looking for work.
 
+# What are you up to these days?
+
+[My now page](/now/) 
+
 # Do you write?
 
 [Check out my first article!](/dva/)
